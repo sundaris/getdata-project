@@ -1,0 +1,260 @@
+Data Dictionary - Samsung 
+SUBJECT                 2
+    1--30 Subject who performed activity
+	
+ACTIVITY                 20
+    Activity Name
+		WALKING
+		WALKING_UPSTAIRS
+		WALKING_DOWNSTAIRS
+		SITTING
+		STANDING
+		LAYING
+
+MEANOFTIMEBodyAccmeanX    25
+       Mean of the Time Body Accelerometer Mean X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccmeanY	 25
+       Mean of the Time Body Accelerometer Mean Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccmeanZ	 25
+       Mean of the Time Body Accelerometer Mean Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccstdX	 25
+       Mean of the Time Body Accelerometer Standard Deviation of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccstdY	 25
+       Mean of the Time Body Accelerometer Standard Deviation of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccstdZ	 25
+       Mean of the Time Body Accelerometer Standard Deviation of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccmeanX	25
+       Mean of the Time Body Gravity Accelerometer of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccmeanY	25
+       Mean of the Time Body Gravity Accelerometer of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccmeanZ	25
+       Mean of the Time Body Gravity Accelerometer of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccstdX    25
+       Mean of the Time Body  Gravity standard deviation of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccstdY    25
+       Mean of the Time Body Gravity standard deviation of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccstdZ    25
+       Mean of the Time Body Gravity standard deviation of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkmeanX	25
+       Mean of the Time Body Accelerometer Jerk mean of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkmeanY	25
+       Mean of the Time Body Accelerometer Jerk mean of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkmeanZ	25
+       Mean of the Time Body Accelerometer Jerk mean of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkstdX
+       Mean of the Time Body Accelerometer Jerk standard deviation of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkstdY
+       Mean of the Time Body Accelerometer Jerk standard deviation of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+	   
+MEANOFTIMEBodyAccJerkstdZ
+       Mean of the Time Body Accelerometer Jerk standard deviation of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+	   
+MEANOFTIMEBodyGyromeanX
+       Mean of the Time Body gyroscope mean of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyromeanY
+       Mean of the Time Body gyroscope mean of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyromeanZ
+       Mean of the Time Body gyroscope mean of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyrostdX
+       Mean of the Time Body gyroscope standard deviation of X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyrostdY
+       Mean of the Time Body gyroscope standard deviation of Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyrostdZ
+       Mean of the Time Body gyroscope standard deviation of Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyroJerkmeanX
+       Mean of the Time Body gyroscope Jerk mean X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyroJerkmeanY
+       Mean of the Time Body gyroscope Jerk mean Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyroJerkmeanZ
+       Mean of the Time Body gyroscope Jerk mean Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyroJerkstdX
+	   Mean of the Time Body gyroscope Jerk standard deviation X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+ 
+MEANOFTIMEBodyGyroJerkstdY
+	   Mean of the Time Body gyroscope Jerk standard deviation Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyGyroJerkstdZ
+	   Mean of the Time Body gyroscope Jerk standard deviation Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccMagmean
+	   Mean of the Time Body Accelerometer magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+	   
+MEANOFTIMEBodyAccMagstd
+	   Mean of the Time Body Accelerometer magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+	   
+MEANOFTIMEGravityAccMagmean
+	   Mean of the Time Body Gravity magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEGravityAccMagstd
+	   Mean of the Time Body Gravity magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkMagmean
+	   Mean of the Time Body Accelerometer Jerk Magnitude Mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFTIMEBodyAccJerkMagstd
+	   Mean of the Time Body Accelerometer Jerk Magnitude Standard Deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccmeanX
+	   Mean of the Fourier Frequency Body Accelerometer Mean X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccmeanY
+	   Mean of the Fourier Frequency Body Accelerometer Mean Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccmeanZ
+	   Mean of the Fourier Frequency Body Accelerometer Mean Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccstdX
+	   Mean of the Fourier Frequency Body Accelerometer Standard Deviation X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccstdY
+	   Mean of the Fourier Frequency Body Accelerometer Standard Deviation Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccstdZ
+	   Mean of the Fourier Frequency Body Accelerometer Standard Deviation Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkmeanX
+	   Mean of the Fourier Frequency Body Accelerometer Jerk mean X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkmeanY
+	   Mean of the Fourier Frequency Body Accelerometer Jerk mean Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkmeanZ
+	   Mean of the Fourier Frequency Body Accelerometer Jerk mean Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkstdX
+	   Mean of the Fourier Frequency Body Accelerometer Jerk standard deviation X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkstdY
+	   Mean of the Fourier Frequency Body Accelerometer Jerk standard deviation Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccJerkstdZ
+	   Mean of the Fourier Frequency Body Accelerometer Jerk standard deviation Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyGyromeanX
+	   Mean of the Fourier Frequency Body gyroscope mean X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyGyromeanY
+	   Mean of the Fourier Frequency Body gyroscope mean Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+	   
+MEANOFFREQBodyGyromeanZ
+	   Mean of the Fourier Frequency Body gyroscope mean Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyGyrostdX
+	   Mean of the Fourier Frequency Body gyroscope Standard Deviation X
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyGyrostdY
+	   Mean of the Fourier Frequency Body gyroscope Standard Deviation Y
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyGyrostdZ
+	   Mean of the Fourier Frequency Body gyroscope Standard Deviation Z
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccMagmean
+	   Mean of the Fourier Frequency Body Accelerometer magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyAccMagstd
+	   Mean of the Fourier Frequency Body Accelerometer magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyAccJerkMagmean
+	   Mean of the Fourier Frequency Body Body Accelerometer Jerk magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyAccJerkMagmean
+	   Mean of the Fourier Frequency Body Body Accelerometer Jerk magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyGyroMagmean
+	   Mean of the Fourier Frequency Body Body gyroscope magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyGyroMagstd
+	   Mean of the Fourier Frequency Body Body gyroscope magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyGyroJerkMagmean
+	   Mean of the Fourier Frequency Body Body gyroscope Jerk magnitude mean
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
+
+MEANOFFREQBodyBodyGyroJerkMagstd
+	   Mean of the Fourier Frequency Body Body gyroscope Jerk magnitude standard deviation
+       Numeric value ranging from -0.00000000000000000 - 9.99999999999999
